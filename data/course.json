@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ]
+  ],
+  "legacy_uid": "6acfaa72-db58-04f4-a5ab-83dac368dd81",
+  "instructors": {
+    "content": [
+      "55e997b5-0472-ba37-6618-35fb09255e90",
+      "aaec4bd5-b27f-3078-3230-317a4fa1638f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9119a272-dc14-5ef3-abdf-8b34e63da8eb",
+    "website": "11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009"
+  },
+  "course_title": "Revitalizing Urban Main Streets: St. Claude Avenue, New Orleans",
+  "course_description": "This course focuses on the physical and economic renewal of urban neighborhood Main Streets by combining classroom work with an applied class project. The course content covers four broad areas:\n\n1.  An overview of the causes for urban business district decline, the challenges faced in revitalization and the type of revitalization strategies employed;\n2.  The physical and economic development planning tools used to understand and assess urban Main Streets from physical design and economic development perspectives;\n3.  The policies, interventions, and investments used to foster urban commercial revitalization; and\n4.  The formulation of a revitalization plan for an urban commercial district.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.439",
+  "course_image_thumbnail": {
+    "content": "230c086c-8675-256a-9a81-5fb84a046f40",
+    "website": "11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "1cc906f1-97d9-408a-a146-d5b9fd118ada",
+  "site_short_id": "11.439-spring-2009",
+  "site_url_path": "courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009",
+  "title": "Course Metadata"
+}
