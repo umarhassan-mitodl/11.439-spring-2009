@@ -51,15 +51,15 @@ Hirsch, Arnold R. "Simply a Matter of Black and White: The Transformation of Rac
 Katrina Impact, Disaster Recovery and New Orleans' Planning Process
 {{< tdclose >}}{{< tdopen >}}
 
-Swenson, Dan. "[Anatomy of a Flood: How New Orleans flooded during Hurricane Katrina](http://www.nola.com/katrina/index.ssf/2015/08/katrina_flooding_map.html)." *The Times-Picayune*. August 12, 2015.
+Swenson, Dan. "{{% resource_link "5037ca45-e7dd-43b7-8ed3-739ab2ecedde" "Anatomy of a Flood: How New Orleans flooded during Hurricane Katrina" %}}." *The Times-Picayune*. August 12, 2015.
 
-Nelson, Marla, Renia Ehrenfeucht, and Shirley Laska. "[Planning, Plans and People: Professional Expertise, Local Knowledge and Government Action in Post-Hurricane Katrina New Orleans](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1090161)." *Cityscape* 9, no. 3 (2007): 23-52.
+Nelson, Marla, Renia Ehrenfeucht, and Shirley Laska. "{{% resource_link "afc73241-8abd-4839-b4e1-352924aa0489" "Planning, Plans and People: Professional Expertise, Local Knowledge and Government Action in Post-Hurricane Katrina New Orleans" %}}." *Cityscape* 9, no. 3 (2007): 23-52.
 
-Webb, Gary R., Kathleen J. Tierney, and James M. Dahlhamer. "[Businesses and Disasters: Empirical Patterns and Unanswered Questions](http://cedb.asce.org/cgi/WWWdisplay.cgi?121089)." Disaster Research Center, 1999.
+Webb, Gary R., Kathleen J. Tierney, and James M. Dahlhamer. "{{% resource_link "14980b52-4fb2-4d2a-9b9d-e613823a9af3" "Businesses and Disasters: Empirical Patterns and Unanswered Questions" %}}." Disaster Research Center, 1999.
 
 Eadie, C. E. "Earthquake Case Study: Loma Prieta in Santa Cruz and Watsonville, California." In *Planning for Post-Disaster Recovery and Reconstruction*. Authored by K. C. Topping, C. C. Eadie, R. E. Deyle, and R. A. Smith. Washington, DC: Federal Emergency Management Company, 2003. ISBN: 9781884829253.
 
-"[District 7 Plans for Bywater-Marigny and St. Roch-St. Claude Neighborhoods](https://www.datacenterresearch.org/data-resources/neighborhood-data/district-7/)."
+"{{% resource_link "336e7472-1d20-4cf3-89dc-5e6999865c4b" "District 7 Plans for Bywater-Marigny and St. Roch-St. Claude Neighborhoods" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -69,13 +69,13 @@ Urban Design and Development: Ways of Seeing and Listening
 
 Jacobs, Allan. "Clues" and "Seeing Change." In *Looking at Cities*. Authored by Allan Jacobs. Cambridge, MA: Harvard University Press, 1985, pp. 30-83 and 99-107. ISBN: 9780674538917.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620956) Lynch, Kevin. "A Walk Around the Block." In [*City Sense and City Design: Writings and Projects of Kevin Lynch*](https://mitpress.mit.edu/9780262620956). Edited by Tridib Banerjee and Michael Southworth. Cambridge, MA: MIT Press, 1995. ISBN: 9780262620956.
+{{% resource_link "3c104aa6-2b25-4a80-8955-8e3fbf7b49c8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "A Walk Around the Block." In {{% resource_link "3c104aa6-2b25-4a80-8955-8e3fbf7b49c8" "*City Sense and City Design: Writings and Projects of Kevin Lynch*" %}}. Edited by Tridib Banerjee and Michael Southworth. Cambridge, MA: MIT Press, 1995. ISBN: 9780262620956.
 
-Tietz, Michael B. "[Neighborhood Economics: Local Communities and Regional Markets](http://edq.sagepub.com/cgi/content/abstract/3/2/111)." *Economic Development Quarterly* 3, no. 2 (1989): 111-122.
+Tietz, Michael B. "{{% resource_link "eee05316-d582-4dd8-8d98-80703a4a9a39" "Neighborhood Economics: Local Communities and Regional Markets" %}}." *Economic Development Quarterly* 3, no. 2 (1989): 111-122.
 
 Klein, William B. "Citizen Participation: Whose Vision Is It?" In *Planning and Community Equity: A Component of APA's Agenda for America's Communities Program*. Chicago, IL: American Planning Association, 1994. ISBN: 9781884829055.
 
-Thomas, June Manning. "[Neighborhood Planning: Uses of Oral History](http://jph.sagepub.com/cgi/content/abstract/3/1/50)." *Journal of Planning History* 3, no. 1 (2004): 50-70.
+Thomas, June Manning. "{{% resource_link "38556f96-8fd8-4cfc-96cf-bce62a463c5e" "Neighborhood Planning: Uses of Oral History" %}}." *Journal of Planning History* 3, no. 1 (2004): 50-70.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -95,9 +95,9 @@ Moughtin, Cliff, J. C. Moughtin, Rafael Cuesta, Christine Sarris, and Paola Sign
 
 Lopez, Guillermo. "Public Space Design." *Urban Land* 65, no. 3 (March 2006): 60-64.
 
-Waxman, Andy. In [*Utilizing Economic Theories of Retail to Revitalize Inner-City Neighborhood Business Districts: The Case of Upham's Corner Main Streets*](http://dspace.mit.edu/handle/1721.1/42819). pp. 38-51 and 65-79, chapters 4 and 6.
+Waxman, Andy. In {{% resource_link "c858a706-34ed-4771-85d1-a6dcc47888de" "*Utilizing Economic Theories of Retail to Revitalize Inner-City Neighborhood Business Districts: The Case of Upham's Corner Main Streets*" %}}. pp. 38-51 and 65-79, chapters 4 and 6.
 
-Milder, N. David. *Niche Strategies for Downtown Revitalization*. Boonton, NJ: Alexander Communications Group. pp. 53-81. \[Read the Introduction ([PDF - 7.0MB](http://fyi.uwex.edu/downtown-market-analysis/files/2011/02/Niche_Revitalization_Strategies-1.pdf))\]
+Milder, N. David. *Niche Strategies for Downtown Revitalization*. Boonton, NJ: Alexander Communications Group. pp. 53-81. \[Read the Introduction ({{% resource_link "19f7b3a5-6e71-43c2-88e8-2120936ca15c" "PDF - 7.0MB" %}})\]
 
 The Renaissance Project. "St. Claude Avenue Main Street Application."
 
@@ -115,9 +115,9 @@ Moe, Richard, and Carter Wilkie. In *Changing Places: Rebuilding Community in th
 
 Chapple, Karen, and Rick Jacobus. *Retail Trade as a Route to Neighborhood Revitalization*, April 2008.
 
-Larsen, Kristin. "[New Urbanism's Role in Inner City Neighborhood Revitalization](http://www.informaworld.com/smpp/content~db=all~content=a723741171)." *Housing Studies* 20, no. 5 (2005): 795-813.
+Larsen, Kristin. "{{% resource_link "fd8ee7b3-843b-40b6-baa7-fe1cd82d0917" "New Urbanism's Role in Inner City Neighborhood Revitalization" %}}." *Housing Studies* 20, no. 5 (2005): 795-813.
 
-Currid, Elizabeth. "[How Art and Culture Happen in New York](http://www.informaworld.com/smpp/content~db=all~content=a785038110)." *Journal of the American Planning Association* 73, no. 4 (Autumn 2007): 454-467.
+Currid, Elizabeth. "{{% resource_link "2fcc0201-2561-4aef-a8b1-a8d6bb9f3d26" "How Art and Culture Happen in New York" %}}." *Journal of the American Planning Association* 73, no. 4 (Autumn 2007): 454-467.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -133,9 +133,9 @@ b. "Egleston Square Plan, Revitalizing Urban Main Streets Class 2003." (Please s
 
 c. "Broad Connections Plan, Revitalizing Urban Main Streets Class 2005." (Please see 11.439 Spring 2005 on OCW.)
 
-Stein, Stanley M., and Thomas L. Harper. "[Power, Trust and Planning](http://jpe.sagepub.com/cgi/content/abstract/23/2/125)." *Journal of Planning Education and Research* 23, no. 2 (2003): 125-139.
+Stein, Stanley M., and Thomas L. Harper. "{{% resource_link "2c6b5862-3397-4002-ac23-bc75d1e2afab" "Power, Trust and Planning" %}}." *Journal of Planning Education and Research* 23, no. 2 (2003): 125-139.
 
-[Review New Orleans Master Plan and Comprehensive Zoning Ordinance Web Site](http://www.nola.gov/city-planning/czo/) and background on current New Orleans master plan process.
+{{% resource_link "d1995a0a-4464-4537-b8fc-02120b486b2d" "Review New Orleans Master Plan and Comprehensive Zoning Ordinance Web Site" %}} and background on current New Orleans master plan process.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -149,15 +149,15 @@ Economic Planning Tools III: Asset and Capacity Assessment
 
 Karl Seidman Consulting Services. *Downtown Salem Retail Market Study: Interim Report*. pp. 1-38. ({{% resource_link "5caef3f2-79de-c346-df5e-8b78ccbd95e9" "PDF" %}})
 
-Urban Markets Initiative, et al. [*Downtown Detroit in Focus: A Profile of Market Opportunity*](https://www.brookings.edu/research/downtown-detroit-in-focus-a-profile-of-market-opportunity/).
+Urban Markets Initiative, et al. {{% resource_link "19012937-054a-4b52-9871-b79713b08c34" "*Downtown Detroit in Focus: A Profile of Market Opportunity*" %}}.
 
-Optional: Alderslade, Jamie, Johm Talmage, and Yusek Freeman. [*Measuring the Informal Economy-One Neighborhood at a Time*](https://www.brookings.edu/wp-content/uploads/2016/06/20060905_informaleconomy.pdf). The Brookings Institution, September 2006.
+Optional: Alderslade, Jamie, Johm Talmage, and Yusek Freeman. {{% resource_link "c7495593-96a4-4d0a-bd9f-eb4995a46f5d" "*Measuring the Informal Economy-One Neighborhood at a Time*" %}}. The Brookings Institution, September 2006.
 
-Glickman, Norman J., and Lisa J. Servon. *More than Bricks and Sticks: What is Community Development Capacity*. CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University 1997. ([PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
+Glickman, Norman J., and Lisa J. Servon. *More than Bricks and Sticks: What is Community Development Capacity*. CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University 1997. ({{% resource_link "edf560a4-ef19-4e6f-b9b4-645a3fd2e4e0" "PDF" %}})
 
-McKnight, John L., and John P. Kretzmann. *Mapping Community Capacity*. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ([PDF](http://www.northwestern.edu/ipr/publications/papers/mcc.pdf))
+McKnight, John L., and John P. Kretzmann. *Mapping Community Capacity*. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ({{% resource_link "45da1444-227e-4c59-854f-be302cd4b1a5" "PDF" %}})
 
-National Civic League. *The Community Visioning and Strategic Planning Handbook*, 2000, pp. 28 to 34. ([PDF - 1.1MB](https://mrsc.org/getmedia/D9ADE917-2DF1-4EA2-9AA8-14D713F5CE98/VSPHandbook.aspx))
+National Civic League. *The Community Visioning and Strategic Planning Handbook*, 2000, pp. 28 to 34. ({{% resource_link "39d2cb6d-0332-4b2a-8784-cffa46890d32" "PDF - 1.1MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -171,11 +171,11 @@ Work Session
 
 {{< tdclose >}}{{< tdopen >}}
 
-Donofrio, Gregory Alexander. "[Feeding the City](https://online.ucpress.edu/gastronomica/article-abstract/7/4/30/47086/Feeding-the-City?redirectedFrom=fulltext)." *Gastronomica* 7, no. 4 (Fall 2007): 30-41.
+Donofrio, Gregory Alexander. "{{% resource_link "e5bbf8bc-2b6b-400a-9c45-6997a1c851ca" "Feeding the City" %}}." *Gastronomica* 7, no. 4 (Fall 2007): 30-41.
 
-Schwartz, Jeffrey. "New Orleans Food Access." Chapter 2 in [*Making Groceries: Food, Neighborhood Markets, and Neighborhood Recovery in Post-Katrina New Orleans*](http://dspace.mit.edu/handle/1721.1/44203). M.C.P. Thesis, Massachusetts Institute of Technology, 2008. pp. 37-56.
+Schwartz, Jeffrey. "New Orleans Food Access." Chapter 2 in {{% resource_link "f598a1be-5975-41be-9a75-ca5e2eed9e7a" "*Making Groceries: Food, Neighborhood Markets, and Neighborhood Recovery in Post-Katrina New Orleans*" %}}. M.C.P. Thesis, Massachusetts Institute of Technology, 2008. pp. 37-56.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262524438) Barham, Elizabeth, David Lind, and Lewis Jett. "The Missouri Regional Cuisines Project: Connecting to Place in the Restaurant." In [*Urban Place: Reconnecting with the Natural World*](https://mitpress.mit.edu/9780262524438). Edited by Peggy F. Barlett. Cambridge, MA: MIT Press, 2005, pp. 141-172. ISBN: 9780262524438. \[[Read](https://mitpress.mit.edu/9780262524438) table of contents and sample chapters.\]
+{{% resource_link "85e2a613-e790-4864-a1af-8fea19e5e38e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Barham, Elizabeth, David Lind, and Lewis Jett. "The Missouri Regional Cuisines Project: Connecting to Place in the Restaurant." In {{% resource_link "85e2a613-e790-4864-a1af-8fea19e5e38e" "*Urban Place: Reconnecting with the Natural World*" %}}. Edited by Peggy F. Barlett. Cambridge, MA: MIT Press, 2005, pp. 141-172. ISBN: 9780262524438. \[{{% resource_link "85e2a613-e790-4864-a1af-8fea19e5e38e" "Read" %}} table of contents and sample chapters.\]
 
 Farr, Douglas. "Sustainable Neighborhoods." Chapter 7 in *Sustainable Urbanism: Urban Design with Nature*. New York, NY: Wiley, 2007, pp. 125-167. ISBN: 9780471777519.
 
@@ -183,7 +183,7 @@ Beatley, Timothy. "Building a Sustainable Economy." Chapter 7 in *Green Urbanism
 
 Karlenzig, Warren. *How Green is Your City? The SustainLane U.S. City Rankings*. Gabriola Island, BC: New Society Publishers, 2007, pp. 1-9 and 117-118, skim category rankings pp. 171-197. ISBN: 9780865715950.
 
-U.S. Green Building Council. [*LEED for Neighborhood Development*](http://www.usgbc.org/DisplayPage.aspx?CMSPageID=148). Review rating program descriptions and skim pilot ratings system.
+U.S. Green Building Council. {{% resource_link "de831b26-1651-4624-99ef-fe3f7b6e5b21" "*LEED for Neighborhood Development*" %}}. Review rating program descriptions and skim pilot ratings system.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -195,21 +195,21 @@ Physical Design Tools III: Image and Neighborhood Form
 
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581523) Hayden, Dolores. "Urban Landscape History: The Sense of Place and the Politics of Space," and "Place Memory and Urban Preservation." In [*The Power of Place: Urban Landscapes as Public History*](https://mitpress.mit.edu/9780262581523). Cambridge, MA: MIT Press, 1997. ISBN: 9780262581523.
+{{% resource_link "0976af02-4022-442d-9bb6-eee67cc516c1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. "Urban Landscape History: The Sense of Place and the Politics of Space," and "Place Memory and Urban Preservation." In {{% resource_link "0976af02-4022-442d-9bb6-eee67cc516c1" "*The Power of Place: Urban Landscapes as Public History*" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 9780262581523.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600231) Jacobs, Allan B. "Requirements for Great Streets," and "Qualities that Contribute." In [*Great Streets*](https://mitpress.mit.edu/9780262600231). Cambridge, MA: MIT Press, 1995. pp. 270-308. ISBN: 9780262600231.
+{{% resource_link "375f7212-cf0f-4059-a72d-8f876388db60" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jacobs, Allan B. "Requirements for Great Streets," and "Qualities that Contribute." In {{% resource_link "375f7212-cf0f-4059-a72d-8f876388db60" "*Great Streets*" %}}. Cambridge, MA: MIT Press, 1995. pp. 270-308. ISBN: 9780262600231.
 
 National Trust for Historic Preservation. "Revitalizing Downtown." pp. 43-47 and 51-58.
 
-Talen, Emily, and Cliff Ellis. "[Beyond Relativism: Reclaiming the Search for Good City Form](http://jpe.sagepub.com/cgi/content/abstract/22/1/36)." *Journal of Planning Education and Research* 22, no. 1 (2002): 36-49.
+Talen, Emily, and Cliff Ellis. "{{% resource_link "aa482f8e-e813-4f67-9271-dbeef396c261" "Beyond Relativism: Reclaiming the Search for Good City Form" %}}." *Journal of Planning Education and Research* 22, no. 1 (2002): 36-49.
 
-Salvesen, David. "[The Making of Place](https://matr.net/news/the-making-of-place/)." *Urban Land* 61, no. 7 (July 2002): 36-41.
+Salvesen, David. "{{% resource_link "c63e62a7-daba-4ff3-9c33-cd817f6694a6" "The Making of Place" %}}." *Urban Land* 61, no. 7 (July 2002): 36-41.
 
 ### For reference
 
-Community Partners Consultants, Inc. "The Arts District Today," and "The Arts District Vision." Chapters 2 and 3 in [*Worcester, Massachusetts Arts District Master Plan*](http://www.worcestermass.org/arts-culture-entertainment/arts-culture/worcester-arts-district/arts-district-master-plan). Worcester, MA: Arts District Task Force and the City of Worcester, June 2002.
+Community Partners Consultants, Inc. "The Arts District Today," and "The Arts District Vision." Chapters 2 and 3 in {{% resource_link "84b5967d-d448-40e6-81eb-ab912000e5e5" "*Worcester, Massachusetts Arts District Master Plan*" %}}. Worcester, MA: Arts District Task Force and the City of Worcester, June 2002.
 
-[Main Street Mobile, AL Public Space Report](http://www.mainstreetmobile.org/) for reference of a southern city streetscape approach. Report completed in conjunction with the Project for Public Spaces, Inc.
+{{% resource_link "b708af11-d97d-4218-bd10-e6cfd783c957" "Main Street Mobile, AL Public Space Report" %}} for reference of a southern city streetscape approach. Report completed in conjunction with the Project for Public Spaces, Inc.
 
 "Preserve Alabama, Alabama Main Street Guidelines."
 
@@ -227,7 +227,7 @@ Policies and Interventions II: Design and Zoning Guidelines
 
 {{< tdclose >}}{{< tdopen >}}
 
-Community Partners Consultants, Inc. "The Economics Benefits." Chapter 4 in [*Worcester, Massachusetts Arts District Master Plan*](http://www.worcestermass.org/arts-culture-entertainment/arts-culture/worcester-arts-district/arts-district-master-plan). Worcester, MA: Arts District Task Force and City of Worcester, July 2002, pp. 51-58.
+Community Partners Consultants, Inc. "The Economics Benefits." Chapter 4 in {{% resource_link "84b5967d-d448-40e6-81eb-ab912000e5e5" "*Worcester, Massachusetts Arts District Master Plan*" %}}. Worcester, MA: Arts District Task Force and City of Worcester, July 2002, pp. 51-58.
 
 Goody, Clancy, and Associates. "Strategic Revitalization Plan for Central Avenue, Albany." City of Albany, NY, September 2000, pp. 59-67.
 
@@ -269,11 +269,11 @@ Policies and Interventions IV: Marketing and Promotion
 
 {{< tdclose >}}{{< tdopen >}}
 
-Seidman, Karl F. In [*Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*](https://www.innovations.harvard.edu/revitalizing-commerce-american-cities-practitioners-guide-urban-main-street-programs). Fannie Mae Foundation, 2004, chapter 5 and 6.
+Seidman, Karl F. In {{% resource_link "ce866621-9961-4009-848d-0f2dd6a40407" "*Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*" %}}. Fannie Mae Foundation, 2004, chapter 5 and 6.
 
-Toups, Catherine, and James H. Carr. "[Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors](http://www.innovations.harvard.edu/reimaging-distressed-communities-strategy-reverse-decline-and-attract-investors)." Fannie Mae Foundation, 2000.
+Toups, Catherine, and James H. Carr. "{{% resource_link "87347282-eeac-4e74-9a55-448e68bee08f" "Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors" %}}." Fannie Mae Foundation, 2000.
 
-Hoffman, Lily M. "[The Marketing of Diversity in the Inner City: Tourism and Regulation in Harlem](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-2427.00448)." *International Journal of Urban and Regional Research* 27, no. 2 (2003): 286-299.
+Hoffman, Lily M. "{{% resource_link "68ebab98-f96a-4c51-9b32-f1056a2f9fdf" "The Marketing of Diversity in the Inner City: Tourism and Regulation in Harlem" %}}." *International Journal of Urban and Regional Research* 27, no. 2 (2003): 286-299.
 
 Rypkema, Donovan P. "Commercial Gentrification: Beyond the Rhetoric." Talk given at Urban Main Street Forum, Boston, MA. June 25, 2002.
 
@@ -293,13 +293,13 @@ Eastside Neighborhood Development Corporation. Payne Arcade Main Street Program 
 
 Houston, Lawrence O., Jr. "BIDS: Business Improvement Districts." Washington, DC: Urban Land Institute and International Downtown Association, 1997, pp. 59-72.
 
-Thacher, David. "The Community Security Initiative: Lessons Learned." pp. 1-30. ([PDF](http://sitemaker.umich.edu/urrcworkingpapers/all_urrc_working_papers/da.data/000000000000000000000000000000000000000000308472/Paper/urrc_02-1.ps.pdf))
+Thacher, David. "The Community Security Initiative: Lessons Learned." pp. 1-30. ({{% resource_link "62b46f02-e640-46f0-ba89-f9437ae222e7" "PDF" %}})
 
 Stokvis, Jack R., and James A. Cloar. "CRM: Applying Shopping Center Techniques to Downtown Retailing." Urban Land, April 1991, pp. 7-11.
 
 Houston, Lawrence O., Jr. *Business Improvement Districts*. Washington, DC: Urban Land Institute and International Downtown Association, 1997, pp. 8-19.
 
-Stokes, Robert. "[Business Improvement Districts and Inner City Revitalization: The Case of Philadelphia's Frankford Special Services District](http://www.informaworld.com/smpp/content~db=all~content=a737745243)." *International Journal of Public Administration* 29, nos. 1-3 (2006): 173-186.
+Stokes, Robert. "{{% resource_link "72b6f794-a57b-462f-9bac-f53884299548" "Business Improvement Districts and Inner City Revitalization: The Case of Philadelphia's Frankford Special Services District" %}}." *International Journal of Public Administration* 29, nos. 1-3 (2006): 173-186.
 
 Vidal, Avis, Sudhir Venkatesh, Prudence Brown, and Robert Chaskin. *Building Community Capacity*. Edison, NJ: Aldine Transaction, 2001, pp 123-157. ISBN: 9780202306407.
 
