@@ -6,6 +6,8 @@ description: Reflection exercise geared to explore issues faced by planners duri
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/e299755b4e0bb4cab858427ebc577ac5_MIT11_439s09_assn06_reflection06.pdf
 file_size: 23403
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

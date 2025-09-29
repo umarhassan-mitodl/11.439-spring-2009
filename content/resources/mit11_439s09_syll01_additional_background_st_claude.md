@@ -5,6 +5,8 @@ description: Background information on St. Claude Avenue, New Orleans, the focus
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/100ad3a265711295e394ba2141d1c482_MIT11_439s09_syll01_Additional_Background_St_Claude.pdf
 file_size: 22437
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

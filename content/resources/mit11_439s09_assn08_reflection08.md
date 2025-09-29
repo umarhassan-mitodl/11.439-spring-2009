@@ -8,6 +8,8 @@ description: Weekly reflection exercise geared to explore issues faced by planne
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/dd72f7500fbaf9c7d40578b23c823efa_MIT11_439s09_assn08_reflection08.pdf
 file_size: 46954
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

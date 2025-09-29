@@ -11,4 +11,4 @@ uid: 06c28914-1378-f4d1-530f-95f5036140e0
 ---
 The following is the final report prepared by the students in the Spring 2009 Revitalizing Urban Main Streets course. Used with permission.
 
-"{{% resource_link "3f4ca448-8c38-4382-a182-826f5d953ebe" "St Claude in Common" %}}."
+"[St Claude in Common](https://planning-org-uploaded-media.s3.amazonaws.com/legacy_resources/awards/studentprojects/2010/pdf/stclaudeincommon.pdf)."
