@@ -5,8 +5,6 @@ description: Schedule of activities for a class field trip to Broad Street Comme
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/e0da9b56fba28589b866c64fe9ca9076_MIT11_439s09_lec04_IAP_Field_Trip_Itinerary.pdf
 file_size: 64665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

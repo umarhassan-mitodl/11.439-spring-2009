@@ -7,8 +7,6 @@ description: Lecture presentation on market analysis approaches, market study re
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/eacec99308a7289cb0ba6d3386f24e7f_MIT11_439s09_lec01_Week09_Lecture_Notes.pdf
 file_size: 80415
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
